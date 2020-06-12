@@ -1,0 +1,11 @@
+Descreption
+
+Assumption
+1. Email detail like body material, email status(e.g. opened, sent) is available in DB
+2. Web hook/Rest API(or similar mechanism) is exist. which update email status in DB based on events like link click.
+
+
+
+Note
+1. Accessing Email DB and tables using entity framework 
+
